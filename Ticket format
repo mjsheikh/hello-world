@@ -1,0 +1,18 @@
+{
+    "title": "App not responding",
+    "type" : "Issue",
+    "department" : "IT",
+    "subcategory" : "RAM",
+    "last_updated_by" : "user",
+    "status": "OPEN",
+    "created_by": "user",
+    "assignor" : "Udgam",
+    "assignee" : "Ashu Gupta", 
+    "description" : "The app responds really slow on server start ups",
+    "category" : "Hardware",
+    "priority" : "LOW",
+    "version" : "0.2.3",
+    "location_id" : "K-324005"
+    }
+    
+
