@@ -1,5 +1,5 @@
 # hello-world
-Trial hello world repository\n
+Trial hello world repository
 
 Hello!
 
